@@ -33,5 +33,5 @@ for(let i = 0; i < 10; i++){
     let die1 = Roll()
     let die2 = Roll()
 
-    let message = `${die1} + ${die2} == ${die1.}`
+    let message = `${die1} + ${die2} == ${die1}`
 }
